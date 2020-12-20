@@ -1,11 +1,11 @@
 ---
-title: [SQL] 날짜 문법
+title: 데이터 마케팅
 date: 2020-12-20
 categories:
-- marketing
+ - marketing
 tags:
-- data marketing
-- CRM
+ - data marketing
+ - CRM
 ---
 
 ## 마케팅 배운 내용 정리
