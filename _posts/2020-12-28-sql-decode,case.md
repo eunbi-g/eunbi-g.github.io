@@ -11,7 +11,7 @@ tags:
 ---
 
 
-decode, case 함수를 이용해 sql 안에서 조건문을 실행할 수 있다.
+> decode, case 함수를 이용해 sql 안에서 조건문을 실행할 수 있다.
 
 - decode 함수는 대소비교(<,>,=)가 불가능하다. case 함수는 가능.
 
@@ -58,11 +58,11 @@ end
 
 ## 3. DECODE, CASE 이중 사용
 
-decode 함수를 중복해서 사용하면 성능상 좋지 않다.
+`decode` 함수를 중복해서 사용하면 성능상 좋지 않다.
 이중 사용을 해야한다면 case를 사용하자.
 
 
-decode 이중 사용
+`decode` 이중 사용
 
 ```sql
 decode(A, 1, decode(B, 1, 'a', 'b'), 3, 'c', 'd')

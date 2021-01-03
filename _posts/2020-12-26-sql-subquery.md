@@ -6,7 +6,7 @@ categories:
 ---
 
 
-쿼리 안의 쿼리. WHERE절 / FROM절 / SELECT절 안의 쿼리를 통칭하여 서브쿼리라고 한다.
+> 쿼리 안의 쿼리. WHERE절 / FROM절 / SELECT절 안의 쿼리를 통칭하여 서브쿼리라고 한다.
 
 
 
